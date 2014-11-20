@@ -3,7 +3,7 @@ Instagram Clone
 
 ## Synopsis
 
-TODO: Enter a description of your project here.
+Making a Instagram clone using Ruby on Rails
 
 ## Technologies Used
 
